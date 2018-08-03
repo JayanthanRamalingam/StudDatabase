@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StudDatabase</string>
+    <string name="title_activity_fetch">FETCHActivity</string>
+</resources>
